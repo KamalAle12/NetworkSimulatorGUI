@@ -25,4 +25,6 @@ cd NetworkSimulatorGUI
 
 Here is a screenshot of output
 
+![Network Visualization](networksimulationusingjava.png)
+
 ![Output](./networksimulationusingjava.png)
