@@ -13,6 +13,12 @@ This project simulates a network of devices where data is transmitted from the f
 
 - **Java 8** or higher is required to run the project.
 
+## Sample Output
+
+Here is a screenshot of output
+
+![Network Visualization](./networksimulationusingjava.png)
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -21,9 +27,5 @@ This project simulates a network of devices where data is transmitted from the f
 git clone https://github.com/KamalAle12/NetworkSimulatorGUI
 cd NetworkSimulatorGUI
 
-## Sample Output
 
-Here is a screenshot of output
-
-![Network Visualization](./networksimulationusingjava.png)
 
